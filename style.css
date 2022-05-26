@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.carousel-item{
+      padding: 20px 40px;
+}
+.price{
+    color: purple;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: gold;
+}
+.cat2{
+    background-color: orangered;
+}.cat3{
+    background-color: green;
+}
+.categories h1{
+    color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+#Subscribe{
+    height: 300px;
+
+    width: 98%;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
